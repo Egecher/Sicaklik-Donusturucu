@@ -1,4 +1,3 @@
-````markdown
 # 🌡️ Sıcaklık Dönüştürücü (C#)
 
 Bu proje, **Programlama Evreni YouTube kanalı** için geliştirilmiş basit bir **sıcaklık dönüştürücü** uygulamasıdır.
@@ -14,7 +13,7 @@ Kullanıcıların **Celsius ↔ Fahrenheit** değerleri arasında kolayca dönü
 1. Bu projeyi bilgisayarına klonla:
    ```bash
    git clone https://github.com/egecher/sicaklik-donusturucu.git
-````
+   ```
 
 2. Proje klasörünü Visual Studio veya herhangi bir C# IDE’sinde aç.
 3. Programı çalıştır.
@@ -31,5 +30,3 @@ Bu proje tamamen **öğrenme amacıyla** hazırlandı. İstersen fork edip geli�
 ## 📜 Lisans
 
 Bu proje MIT Lisansı altında paylaşılmıştır. Dilediğin gibi kullanabilir, geliştirebilirsin.
-
-```
